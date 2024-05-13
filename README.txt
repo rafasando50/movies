@@ -1,0 +1,2 @@
+Para la realizacion de este proyecto utilice Java con SpringBoot, requeri utilizar una base de datos NoSql y tambien una terminal
+de comandos, en este caso "GitBash" para el control de versiones y subir los archivos a GitHub.
